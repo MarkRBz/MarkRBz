@@ -33,8 +33,6 @@
 </div>
 
 
-![Snake animation](https://github.com/MarkRBz/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 📕 Contatos:
 
